@@ -5,7 +5,7 @@ A simple chat library wrapper for OpenAI. OpenAiChatLib makes it easier to integ
 ## Table of Contents
 
 - [Installation](#installation)
-- * [From .whl File](#from-whl-file)
+  * [From .whl File](#from-whl-file)
   * [Directly From Source](#directly-from-source)
 - [Usage](#usage)
   * [Starting a New Session](#starting-a-new-session)
