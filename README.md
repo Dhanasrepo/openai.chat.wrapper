@@ -17,10 +17,9 @@ A simple chat library wrapper for OpenAI. OpenAiChatLib makes it easier to integ
 
 
 1. Clone this repository:
-
-
+  
+   
     git clone https://github.com/Dhanasrepo/openai.chat.wrapper.git
-
 
 ### From .whl File
 
@@ -29,7 +28,6 @@ A simple chat library wrapper for OpenAI. OpenAiChatLib makes it easier to integ
 
 
     pip install /path_to_whl_file/openaichatlib.whl
-
 
 ### Directly From Source (alternative to .whl)
 
